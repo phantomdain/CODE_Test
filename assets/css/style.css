@@ -40,7 +40,7 @@ section {
 
 /* banner */
 .banner {
-    background: url(/assets/img/banner.jpg) no-repeat;
+    background: url(../img/banner.jpg) no-repeat;
     background-attachment: fixed;
     background-size: cover;
     min-height: 100vh;
@@ -80,7 +80,7 @@ section {
     height: 250px;
     display: inline-block;
     position: absolute;
-    background: url(/assets/img/banner-item.svg);
+    background: url(../img/banner-item.svg);
     bottom: -79px;
     right: -42px;
 }
@@ -151,7 +151,7 @@ section button.btn {
 section.rates {
     min-height: 100vh;
     background-color: var(--black);
-    background-image: url(/assets/img/lightRATES.png);
+    background-image: url(../img/lightRATES.png);
     background-repeat: no-repeat;
     background-size: contain;
     display: flex;
